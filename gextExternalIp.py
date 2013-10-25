@@ -36,7 +36,7 @@ def sendEmailExternalIp(ipAddr):
 
 def sendEmail(subject, body):
     fromaddr = 'sharrajeshspam@gmail.com'
-    toaddrs  = ['sharrajesh@gmail.com', 'rsharma@accessdata.com']
+    toaddrs  = ['sharrajesh@gmail.com', 'sharrajesh@hotmail.com']
 
     username = 'sharrajeshspam@gmail.com'
     password = 'YourPassword'
